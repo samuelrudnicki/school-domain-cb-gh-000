@@ -23,4 +23,5 @@ class School
       roster[key] = value.sort
     end
   end
+  
 end
